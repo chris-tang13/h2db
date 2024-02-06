@@ -1,0 +1,5 @@
+run = "javac MyApplication.java && java MyApplication"
+language = "java"
+
+[debugger]
+program = "Main"
